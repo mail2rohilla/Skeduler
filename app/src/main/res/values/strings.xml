@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Skedule</string>
+    <string name="profile">PROFILE</string>
+    <string name="feed">FEED</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="DashBoard">DASHBOARD</string>
+</resources>

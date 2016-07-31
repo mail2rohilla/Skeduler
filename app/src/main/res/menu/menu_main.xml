@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="in.codingninjas.app.MainActivity">
+    <item
+        android:id="@+id/notify"
+        android:orderInCategory="100"
+        android:title="Turn Off Notification"
+        app:showAsAction="never" />
+    <item
+        android:title="Reset"
+        android:id="@+id/reset"
+        android:orderInCategory="200"
+        app:showAsAction="never"
+        />
+</menu>
