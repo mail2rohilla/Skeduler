@@ -3,6 +3,7 @@
     package="in.codingninjas.skedule">
 
     <application
+        android:largeHeap="true"
         android:name=".App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -16,6 +17,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".activity.TranslucentActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
     </application>
 
 </manifest>

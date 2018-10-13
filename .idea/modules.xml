@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Skedule.iml" filepath="$PROJECT_DIR$/Skedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Skeduler.iml" filepath="$PROJECT_DIR$/Skeduler.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
